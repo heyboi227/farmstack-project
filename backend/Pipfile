@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 fastapi = "==0.115.7"
 uvicorn = "==0.34.0"
-motor = "==3.6.1"
+motor = "==3.7.0"
 
 [dev-packages]
 
