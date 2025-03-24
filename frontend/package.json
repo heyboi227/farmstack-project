@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^14.6.1",
     "axios": "^1.8.4",
     "bootstrap": "^5.3.3",
-    "npm-check-updates": "^17.1.15",
+    "npm-check-updates": "^17.1.16",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
