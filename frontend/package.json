@@ -9,7 +9,7 @@
     "axios": "^1.13.2",
     "bootstrap": "^5.3.8",
     "npm-check-updates": "^19.1.2",
-    "react": "^19.2.0",
+    "react": "^19.2.1",
     "react-dom": "^19.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^5.1.0"
