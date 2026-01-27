@@ -6804,10 +6804,10 @@ normalize-url@^6.0.1:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-6.1.0.tgz#40d0885b535deffe3f3147bec877d05fe4c5668a"
   integrity sha512-DlL+XwOy3NxAQ8xuC0okPgK46iuVNAK01YN7RueYBqqFeGsBjV9XmCAzAdgt+667bCl5kPh9EqKKDwnaPG1I7A==
 
-npm-check-updates@^19.3.1:
-  version "19.3.1"
-  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-19.3.1.tgz#a68748bca9b029e8153508f7ef3e4f0b3a1a83d5"
-  integrity sha512-v92fHH8fmf9VVmQwwL5JWpX8GDEe8BDyrz4w3GF6D6JBUZKpQNcTfBBgxVkCcAPzVUjCHSZEXYmZAAKfLTsDBA==
+npm-check-updates@^19.3.2:
+  version "19.3.2"
+  resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-19.3.2.tgz#b46b3a13a8a75c264c4df9986122569fe9d13ab3"
+  integrity sha512-9rr3z7znFjCSuaFxHGTFR2ZBOvLWaJcpLKmIquoTbDBNrwAGiHhv4MZyty6EJ9Xo/aMn35+2ISPSMgWIXx5Xkg==
 
 npm-run-path@^4.0.1:
   version "4.0.1"
