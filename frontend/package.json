@@ -5,7 +5,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.3",
-    "@testing-library/user-event": "^14.6.6",
+    "@testing-library/user-event": "^14.6.7",
     "axios": "^1.20.0",
     "bootstrap": "^5.3.8",
     "npm-check-updates": "^23.1.0",
